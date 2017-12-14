@@ -18,4 +18,4 @@ Pour la conversion avec _ogr2ogr_
 
 Pour récupérer les styles pensez à utiliser le bouton Download ZIP situé à droite.
 
-En cas de problèmes avec les étiquettes (_labels_) il y a une solution ici : https://hub.qgis.org/issues/13667
+En cas de problèmes avec les étiquettes (_labels_) il y a une solution ici : https://issues.qgis.org/issues/13667
